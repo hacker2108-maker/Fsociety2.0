@@ -43,10 +43,7 @@ Fsociety 2.0 retains all the power of SET while adding hacker2108’s touch:
     Custom Payload Obfuscation (AV Evasion)
 
 🚀 Installation & Usage
-Step 1: Download & Extract
-sh
-
-unzip Fsociety2.0.zip
+Step 1: Download & Extract all the zip files
 
 Step 2: Install Dependencies
 sh
