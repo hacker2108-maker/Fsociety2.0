@@ -1,10 +1,10 @@
-#Fsociety 2.0
+# 🚀Fsociety 2.0
 The Next Evolution of the Social Engineer Toolkit
 
-Enhanced by hacker2108 | Originally Crafted by TrustedSec
+# Enhanced by hacker2108 | Originally Crafted by TrustedSec
 🔐 What is Social Engineering?
 
-Social engineering is the art of human hacking—exploiting psychology rather than brute-force technical attacks. It’s about persuasion, deception, and manipulation to bypass security measures. From phishing emails to impersonation, social engineers exploit the weakest link in any system: people.
+# Social engineering is the art of human hacking—exploiting psychology rather than brute-force technical attacks. It’s about persuasion, deception, and manipulation to bypass security measures. From phishing emails to impersonation, social engineers exploit the weakest link in any system: people.
 
 Fsociety 2.0 is a refined, optimized, and modernized version of the legendary Social Engineer Toolkit (SET), designed to simulate real-world attacks for penetration testing, security research, and ethical hacking.
 ⚡ Why Fsociety 2.0?
