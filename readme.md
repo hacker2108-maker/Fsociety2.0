@@ -1,4 +1,4 @@
-Fsociety 2.0
+#Fsociety 2.0
 The Next Evolution of the Social Engineer Toolkit
 
 Enhanced by hacker2108 | Originally Crafted by TrustedSec
